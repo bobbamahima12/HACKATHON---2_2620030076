@@ -42,6 +42,9 @@ Scholarship    : Rs. 600.0
 Final Fee      : Rs. 5400.0
 
 
+
+
+
 Sample output (not eligible):
 
 Enter student name: MAHIMA BOBBA 
